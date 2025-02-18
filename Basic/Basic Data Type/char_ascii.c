@@ -9,9 +9,7 @@ int main(int argc, char const *argv[])
     printf("ASCII of ch = %d\n", ch);   // 印出ascii碼 10進位 97
 
     char ninety = 90;
-    printf("ch=%c\n", ninety);
-
-
-
+    printf("ch = %c\n", ninety);
+    
     return 0;
 }
