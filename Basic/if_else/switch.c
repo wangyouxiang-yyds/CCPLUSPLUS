@@ -3,6 +3,8 @@
 
 int main(int argc, char const *argv[])
 {
+
+    // 一般switch
     int a, b;
     char oper;
     printf("please inpua a operator Ex(3+2)");
