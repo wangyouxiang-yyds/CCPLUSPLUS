@@ -10,6 +10,7 @@ int main(int argc, char const *argv[])
 
     switch (grade)
     {
+        // 可使用a 或 A 來當作兩個選擇
         case 'a':
         case 'A':
             printf("Excellent\n");
